@@ -19,4 +19,4 @@ This Chrome extension displays Growth Ninja Group's business contact and informa
    ```bash
    git clone https://github.com/your-username/growth-ninja-group-extension.git
 ## Links
-- [Growth Ninja Group Website](https://growthninjagroup.com/)
+- [Digital Growth Agency - Growth Ninja Group](https://growthninjagroup.com/)
